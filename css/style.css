@@ -292,7 +292,7 @@ body {
 }
 
 .portfolio-content .card-info {
-  padding: 1.5rem;
+  padding:1.5rem 1.5rem 6rem;
 }
 .portfolio-content .card-info h3 {
   margin: 0;
@@ -427,4 +427,5 @@ footer{
 footer span{
   color: var(--main-color);
   font-weight: 800;
+
 }
